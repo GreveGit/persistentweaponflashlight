@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 shared_scripts {
-	'shared/*.lua'
+	'modules/shared/*.lua'
 }
 
 client_scripts {
